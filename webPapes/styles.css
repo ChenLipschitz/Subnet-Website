@@ -87,9 +87,9 @@
     border: none;
     outline: none;
     border-radius: 4px;
-    background: #ff2500;
-    background: -webkit-linear-gradient(to right, #f07a66, #fb4b2c, #ff2500);
-    background: linear-gradient(to right, #f07a66, #fb4b2c, #ff2500);
+    background: #f12711;
+    background: -webkit-linear-gradient(to right, #f5af19, #f12711);
+    background: linear-gradient(to right, #f5af19, #f12711);
 }
 
 .fa-gem {
